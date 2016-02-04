@@ -6,5 +6,16 @@
 (function(){
 
 	console.log("JavaScripts works fine");
+	// declared a named function
+	function replaceFirstPraragraphs() {
+		console.log("Inside of replaceFirstParagraphs function");
+
+		var firstParagraph;
+		firstParagraph = document.getElementById("firstParagraph");
+
+		firstParagraph.innerHTML = "My new paragraph data!";
+	}
+	// called the named function
+	replaceFirstPraragraphs();
 
 })();
