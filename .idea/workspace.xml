@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="68df31f7-b372-4cf2-8cce-c546e42e62fe" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/app.js" afterPath="$PROJECT_DIR$/scripts/app.js" />
     </list>
     <ignored path="Comp1073 - Lesson4.iws" />
@@ -29,8 +28,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16198704">
-              <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.4697624">
+              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -194,7 +193,13 @@
       <option name="project" value="LOCAL" />
       <updated>1454603120709</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added some JavaScript funtionality.">
+      <created>1454604443701</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1454604443701</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -229,7 +234,8 @@
     <MESSAGE value="added bootstrap navbar to index" />
     <MESSAGE value="Bootstrap navbar updated and customized." />
     <MESSAGE value="Brand is updated with font awesome." />
-    <option name="LAST_COMMIT_MESSAGE" value="Brand is updated with font awesome." />
+    <MESSAGE value="Added some JavaScript funtionality." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some JavaScript funtionality." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -265,8 +271,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16198704">
-          <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.4697624">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
           <folding />
         </state>
       </provider>

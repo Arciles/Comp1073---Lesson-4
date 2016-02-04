@@ -7,15 +7,26 @@
 
 	console.log("JavaScripts works fine");
 	// declared a named function
-	function replaceFirstPraragraphs() {
-		console.log("Inside of replaceFirstParagraphs function");
+	/*function replaceFirstParagraph() {
+		console.log("Inside of replaceFirstParagraph function");
 
 		var firstParagraph;
 		firstParagraph = document.getElementById("firstParagraph");
 
 		firstParagraph.innerHTML = "My new paragraph data!";
-	}
+	}*/
+	// declare an anonymous function with named alias
+	var replaceFirstParagraph = function() {
+
+		console.log("Inside of replaceFirstParagraph anonymous function");
+
+		var firstParagraph;
+		firstParagraph = document.getElementById("firstParagraph");
+
+		firstParagraph.innerHTML = "My new paragraph data!";
+	};
+
 	// called the named function
-	replaceFirstPraragraphs();
+	replaceFirstParagraph();
 
 })();
