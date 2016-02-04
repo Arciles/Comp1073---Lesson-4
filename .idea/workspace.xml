@@ -38,8 +38,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5842572">
-              <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.4323725">
+              <caret line="26" column="75" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
               <folding />
             </state>
           </provider>
@@ -181,7 +181,13 @@
       <option name="project" value="LOCAL" />
       <updated>1454602507044</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Bootstrap navbar updated and customized.">
+      <created>1454602909800</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1454602909800</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -214,7 +220,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added bootstrap container to the body" />
     <MESSAGE value="added bootstrap navbar to index" />
-    <option name="LAST_COMMIT_MESSAGE" value="added bootstrap navbar to index" />
+    <MESSAGE value="Bootstrap navbar updated and customized." />
+    <option name="LAST_COMMIT_MESSAGE" value="Bootstrap navbar updated and customized." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -250,8 +257,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5842572">
-          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.4323725">
+          <caret line="26" column="75" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
           <folding />
         </state>
       </provider>
